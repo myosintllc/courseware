@@ -1,0 +1,50 @@
+Image1.jpg: Camera=Canon EOS 80D, Date=2023-07-14, GPS=35.6895, 139.6917  
+Image2.jpg: Camera=Sony A7III, Date=2024-01-10, GPS=40.7128, -74.0060  
+Image3.jpg: Camera=iPhone 14 Pro, Date=2023-11-25, GPS=51.5074, -0.1278  
+Image4.jpg: Camera=Nikon D750, Date=2024-02-18, GPS=-33.8688, 151.2093  
+Image5.jpg: Camera=Canon Rebel T7, Date=2023-09-03, GPS=48.8566, 2.3522  
+Image6.jpg: Camera=Fujifilm X-T4, Date=2024-03-22, GPS=34.0522, -118.2437  
+Image7.jpg: Camera=GoPro HERO9, Date=2023-05-19, GPS=37.7749, -122.4194  
+Image8.jpg: Camera=Pentax K-1, Date=2024-04-11, GPS=55.7558, 37.6173  
+Image9.jpg: Camera=Leica Q2, Date=2023-08-15, GPS=41.9028, 12.4964  
+Image10.jpg: Camera=Samsung Galaxy S23, Date=2024-06-09, GPS=52.5200, 13.4050  
+Image11.jpg: Camera=Canon EOS R5, Date=2023-12-01, GPS=35.6895, 139.6917  
+Image12.jpg: Camera=Sony RX100 VII, Date=2024-01-22, GPS=40.7128, -74.0060  
+Image13.jpg: Camera=iPhone 13, Date=2023-10-18, GPS=51.5074, -0.1278  
+Image14.jpg: Camera=Nikon Z6, Date=2024-02-27, GPS=34.0522, -118.2437  
+Image15.jpg: Camera=Canon EOS 90D, Date=2023-09-12, GPS=35.6895, 139.6917  
+Image16.jpg: Camera=Samsung Galaxy S22, Date=2024-03-05, GPS=40.7128, -74.0060  
+Image17.jpg: Camera=Sony A6400, Date=2023-11-09, GPS=51.5074, -0.1278  
+Image18.jpg: Camera=Fujifilm X100V, Date=2024-04-14, GPS=34.0522, -118.2437  
+Image19.jpg: Camera=Leica M10, Date=2023-08-23, GPS=35.6895, 139.6917  
+Image20.jpg: Camera=GoPro HERO10, Date=2024-06-16, GPS=40.7128, -74.0060  
+Image21.jpg: Camera=Canon Rebel SL3, Date=2023-07-21, GPS=51.5074, -0.1278  
+Image22.jpg: Camera=Sony A7R IV, Date=2024-01-30, GPS=34.0522, -118.2437  
+Image23.jpg: Camera=Nikon D850, Date=2023-12-07, GPS=41.3851, 2.1734  
+Image24.jpg: Camera=Canon EOS M50, Date=2024-02-15, GPS=19.4326, -99.1332  
+Image25.jpg: Camera=Sony ZV-1, Date=2023-09-28, GPS=52.3676, 4.9041  
+Image26.jpg: Camera=Panasonic Lumix G9, Date=2024-03-18, GPS=35.6895, 139.6917  
+Image27.jpg: Camera=Olympus OM-D E-M1, Date=2023-11-12, GPS=40.7128, -74.0060  
+Image28.jpg: Camera=Canon EOS R6, Date=2024-04-22, GPS=51.5074, -0.1278  
+Image29.jpg: Camera=Sony A7C, Date=2023-08-30, GPS=34.0522, -118.2437  
+Image30.jpg: Camera=Fujifilm X-S10, Date=2024-06-01, GPS=35.6895, 139.6917  
+Image31.jpg: Camera=Nikon Z7II, Date=2023-07-16, GPS=40.7128, -74.0060  
+Image32.jpg: Camera=Canon EOS RP, Date=2024-01-14, GPS=51.5074, -0.1278  
+Image33.jpg: Camera=Leica SL2, Date=2023-10-11, GPS=34.0522, -118.2437  
+Image34.jpg: Camera=Sony A7S III, Date=2024-02-21, GPS=35.6895, 139.6917  
+Image35.jpg: Camera=Canon PowerShot G7X, Date=2023-09-08, GPS=40.7128, -74.0060  
+Image36.jpg: Camera=Pentax KP, Date=2024-03-25, GPS=51.5074, -0.1278  
+Image37.jpg: Camera=Nikon D5600, Date=2023-11-17, GPS=34.0522, -118.2437  
+Image38.jpg: Camera=Fujifilm X-T30, Date=2024-04-08, GPS=35.6895, 139.6917  
+Image39.jpg: Camera=Sony A99 II, Date=2023-08-20, GPS=40.7128, -74.0060  
+Image40.jpg: Camera=Canon EOS 5D IV, Date=2024-06-12, GPS=51.5074, -0.1278  
+Image41.jpg: Camera=Samsung Galaxy S21, Date=2023-07-05, GPS=34.0522, -118.2437  
+Image42.jpg: Camera=Sony RX10 IV, Date=2024-01-18, GPS=35.6895, 139.6917  
+Image43.jpg: Camera=Nikon Coolpix P1000, Date=2023-10-21, GPS=40.7128, -74.0060  
+Image44.jpg: Camera=Canon EOS 7D, Date=2024-02-26, GPS=51.5074, -0.1278  
+Image45.jpg: Camera=Fujifilm X-Pro3, Date=2023-09-14, GPS=34.0522, -118.2437  
+Image46.jpg: Camera=Sony A5000, Date=2024-03-10, GPS=35.6895, 139.6917  
+Image47.jpg: Camera=Leica CL, Date=2023-11-06, GPS=40.7128, -74.0060  
+Image48.jpg: Camera=Canon EOS 6D, Date=2024-04-19, GPS=51.5074, -0.1278  
+Image49.jpg: Camera=Nikon Z5, Date=2023-08-26, GPS=34.0522, -118.2437  
+Image50.jpg: Camera=Sony A6000, Date=2024-06-04, GPS=35.6895, 139.6917  
